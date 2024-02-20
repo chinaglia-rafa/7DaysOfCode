@@ -1,6 +1,6 @@
 # 7DaysOfCode
 
-Pequeno desafio promovido pela Alura em 2024 sobre javascript disponível em [https://7daysofcode.io/matricula/logica-programacao](https://7daysofcode.io/matricula/logica-programacao).
+Pequeno desafio promovido pela Alura em 2024 sobre javascript disponível em [https://7daysofcode.io).
 
 ## Índice
 
