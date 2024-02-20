@@ -1,6 +1,6 @@
 # 7DaysOfCode
 
-Pequeno desafio promovido pela Alura em 2024 sobre javascript disponível em [https://7daysofcode.io).
+Pequeno desafio promovido pela Alura em 2024 sobre javascript disponível em [https://7daysofcode.io](https://7daysofcode.io).
 
 ## Índice
 
