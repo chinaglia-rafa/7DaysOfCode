@@ -18,6 +18,7 @@ Escolhi fazer alguns dos desafios, cujos índices estão abaixo.
 
 ### Javascript e DOM: Wordle
 
+- Projeto: [Javascript e DOM: Wordle](https://github.com/chinaglia-rafa/7DaysOfCode/tree/main/wordle-com-javascript)
 - _Dia 1: ???_
 - _Dia 2: ???_
 - _Dia 3: ???_
