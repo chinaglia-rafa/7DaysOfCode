@@ -3,6 +3,8 @@
 Este projeto é parte do 7DaysOfCode da Alura, promovido em 2024,
 e seu objetivo é a construção de uma aplicação semelhante ao [Wordle](https://www.nytimes.com/games/wordle/index.html).
 
+![image](https://github.com/chinaglia-rafa/7DaysOfCode/assets/4058733/b08747aa-fab5-4ce0-b80a-24b6fa510498)
+
 ## Índice
 
 - **Projeto:** [Javascript e DOM: Wordle](https://github.com/chinaglia-rafa/7DaysOfCode/tree/main/wordle-com-javascript)
