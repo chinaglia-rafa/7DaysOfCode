@@ -1,0 +1,26 @@
+{
+  "name": "wordle-com-javascript",
+  "version": "1.0.0",
+  "description": "wordle criado para o 7DaysOfCode da Alura em 2024",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chinaglia-rafa/7DaysOfCode/wordle-com-javascript"
+  },
+  "keywords": [
+    "wordle",
+    "javascript",
+    "learning",
+    "Alura",
+    "front-end"
+  ],
+  "author": "SrChinaglia",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
