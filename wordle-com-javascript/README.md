@@ -1,4 +1,4 @@
-# Wordle com Javascript
+# [🇼] Wordle com Javascript
 
 Este projeto é parte do 7DaysOfCode da Alura, promovido em 2024,
 e seu objetivo é a construção de uma aplicação semelhante ao [Wordle](https://www.nytimes.com/games/wordle/index.html).
