@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+    <title>Wordle com Javascript - #7DaysOfCode</title>
+  </head>
+  <body>
+    <header class="header">
+      <img src="https://placehold.co/51x51/F9FF00/black?text=W" alt="logo" />
+    </header>
+    <div class="content">
+      <section class="messages">
+        <div id="message" class="message warn">A palavra não está na lista</div>
+      </section>
+      <section class="words">
+        <div class="words-list">
+          <div class="word">
+            <div id="letter-0-0" class="letter wrong">A</div>
+            <div id="letter-0-1" class="letter wrong">B</div>
+            <div id="letter-0-2" class="letter present">C</div>
+            <div id="letter-0-3" class="letter correct">D</div>
+            <div id="letter-0-4" class="letter present">E</div>
+          </div>
+
+          <div class="word">
+            <div id="letter-1-0" class="letter">E</div>
+            <div id="letter-1-1" class="letter">C</div>
+            <div id="letter-1-2" class="letter">T</div>
+            <div id="letter-1-3" class="letter">D</div>
+            <div id="letter-1-4" class="letter">Z</div>
+          </div>
+
+          <div class="word">
+            <div id="letter-2-0" class="letter"></div>
+            <div id="letter-2-1" class="letter"></div>
+            <div id="letter-2-2" class="letter"></div>
+            <div id="letter-2-3" class="letter"></div>
+            <div id="letter-2-4" class="letter"></div>
+          </div>
+
+          <div class="word">
+            <div id="letter-3-0" class="letter"></div>
+            <div id="letter-3-1" class="letter"></div>
+            <div id="letter-3-2" class="letter"></div>
+            <div id="letter-3-3" class="letter"></div>
+            <div id="letter-3-4" class="letter"></div>
+          </div>
+
+          <div class="word">
+            <div id="letter-4-0" class="letter"></div>
+            <div id="letter-4-1" class="letter"></div>
+            <div id="letter-4-2" class="letter"></div>
+            <div id="letter-4-3" class="letter"></div>
+            <div id="letter-4-4" class="letter"></div>
+          </div>
+
+          <div class="word">
+            <div id="letter-5-0" class="letter"></div>
+            <div id="letter-5-1" class="letter"></div>
+            <div id="letter-5-2" class="letter"></div>
+            <div id="letter-5-3" class="letter"></div>
+            <div id="letter-5-4" class="letter"></div>
+          </div>
+        </div>
+      </section>
+      <section class="keyboard">
+        <div class="row">
+          <button id="key-Q" class="key">Q</button>
+          <button id="key-W" class="key">W</button>
+          <button id="key-E" class="key present">E</button>
+          <button id="key-R" class="key">R</button>
+          <button id="key-T" class="key">T</button>
+          <button id="key-Y" class="key">Y</button>
+          <button id="key-U" class="key">U</button>
+          <button id="key-I" class="key">I</button>
+          <button id="key-O" class="key">O</button>
+          <button id="key-P" class="key">P</button>
+        </div>
+        <div class="row">
+          <button id="key-A" class="key wrong">A</button>
+          <button id="key-S" class="key">S</button>
+          <button id="key-D" class="key correct">D</button>
+          <button id="key-F" class="key">F</button>
+          <button id="key-G" class="key">G</button>
+          <button id="key-H" class="key">H</button>
+          <button id="key-J" class="key">J</button>
+          <button id="key-K" class="key">K</button>
+          <button id="key-L" class="key">L</button>
+        </div>
+        <div class="row">
+          <button id="key-ENTER" class="key key--long">ENTER</button>
+          <button id="key-Z" class="key">Z</button>
+          <button id="key-X" class="key">X</button>
+          <button id="key-C" class="key present">C</button>
+          <button id="key-V" class="key">V</button>
+          <button id="key-B" class="key wrong">B</button>
+          <button id="key-N" class="key">N</button>
+          <button id="key-M" class="key">M</button>
+          <button id="key-BACKSPACE" class="key">
+            <img src="assets/backspace.svg" alt="apagar letra" />
+          </button>
+        </div>
+      </section>
+      <button class="button secondary showing">JOGAR NOVAMENTE</button>
+    </div>
+  </body>
+</html>
