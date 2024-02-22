@@ -1,3 +1,6 @@
+![image](https://github.com/chinaglia-rafa/7DaysOfCode/assets/4058733/9770a78b-ad2b-4251-89df-1840527848b9)
+
+
 ## Como executar
 
 Se você for executar esse projeto localmente, siga os passos abaixo, considerando que esteja no Linux. Caso esteja no Windows, talvez usar o PowerShell ajude por ter comandos mais semelhantes:
