@@ -1,0 +1,26 @@
+{
+  "name": "dia-2",
+  "version": "1.0.0",
+  "description": "Dia 2 do 7DaysOfCode da Alura em 2024",
+  "main": "dia-2.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chinaglia-rafa/7DaysOfCode"
+  },
+  "keywords": [
+    "wordle",
+    "javascript",
+    "learning",
+    "Alura",
+    "front-end"
+  ],
+  "author": "SrChinaglia",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
