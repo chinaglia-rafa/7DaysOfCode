@@ -9,7 +9,7 @@ Escolhi fazer alguns dos desafios, cujos índices estão abaixo.
 ### Lógica com Javascript
 
 - [Dia 1: comparações booleanas](https://github.com/chinaglia-rafa/7DaysOfCode/tree/main/logica-com-javascript/dia-1)
-- _Dia 2: ???_
+- [Dia 2: variáveis](https://github.com/chinaglia-rafa/7DaysOfCode/tree/main/logica-com-javascript/dia-2) 🚀versão UBER🚀
 - _Dia 3: ???_
 - _Dia 4: ???_
 - _Dia 5: ???_
